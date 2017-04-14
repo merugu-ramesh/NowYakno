@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Now Ya kno</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="emailId">Email Id</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="zipcode">Zipcode</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="address">Address</string>
+    <string name="facebook_app_id">281350222303922</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">Closed</string>
+    <string name="navigation_drawer_open">navigation drawer opened</string>
+    <string name="navigation_drawer_close">Navigation drawer closed</string>
+    <string name="action_settings">Setting</string>
+
+</resources>

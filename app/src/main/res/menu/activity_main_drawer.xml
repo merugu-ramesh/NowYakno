@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_albums"
+            android:icon="@mipmap/ic_launcher"
+            android:title="All Albums" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Favourite" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Setting" />
+
+    </group>
+
+
+</menu>
